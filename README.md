@@ -2,9 +2,8 @@
 
  <div>
   
-  ## Olá Mundo ! Seja bem-vindo ao meu perfil ! 👋
+  # Seja bem-vindo ao meu perfil ! 👋
  
-  Desenvolvedora web com conhecimento técnico em Python, HTML, CSS3, JavaScript, Node.js, banco de dados SQLite e MySQL, Git, GitHub e frameworks como Django e Bootstrap.
   
 - Compartilho voluntariamente em redes sociais dicas sobre tecnologia e segurança digital, com o objetivo de ajudar pessoas a utilizar a tecnologia de forma consciente e seguir boas práticas para proteção de dados: <br> <a href="https://www.instagram.com/mf.tech01/" target="_blank"><img src="https://img.shields.io/badge/MF.tech01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 
