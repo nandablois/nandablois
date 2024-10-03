@@ -2,18 +2,19 @@
 
  <div>
   
-  - Welcome to my profile!
+  ## Welcome to my profile!
   - Tools ⚙️
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nodejs,react,nextjs,postgres " />
   </a>
 
-   
+   <br><br>
  
-  Tips and news about technology and digital security, helping people to use it consciously.
- <br>
- <a href="https://www.instagram.com/mf.tech01/" target="_blank"><img src="https://img.shields.io/badge/MF.tech01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ -  Tips and news about technology and digital security, helping people to use it consciously.
+ 
+<a href="https://www.instagram.com/mf.tech01/" target="_blank">
+<img src="https://img.shields.io/badge/MF.tech01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
 
 -  Contacts:
  
