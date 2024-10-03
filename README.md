@@ -6,7 +6,7 @@
   - Tools ⚙️
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nextjs,postgres, " />
+    <img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nodejs,react,nextjs,postgres " />
   </a>
 
    
