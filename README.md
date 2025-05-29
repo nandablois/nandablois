@@ -28,8 +28,5 @@
 
 ---
 
-## 🐍 GitHub Snake Contribution Graph
-
-![GitHub Snake animation](./dist/github-snake.svg)
 
 
