@@ -1,12 +1,12 @@
 <img align="right" alt="nandabdev.png" height="300" style="border-radius:10px;" src="nandabdev.png">
 
 ## Welcome to my profiler ✨
-### 👩‍💻 Desenvolvedora Full Stack apaixonada por criar soluções eficientes e elegantes. Sempre em busca de novos desafios.
 ### Tools ⚙️
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nodejs,react,nextjs,postgres" />
 </a>
 
+### 👩‍💻 Desenvolvedora Full Stack apaixonada por criar soluções eficientes e elegantes. Sempre em busca de novos desafios.  
 
 
 ### Contacts:
