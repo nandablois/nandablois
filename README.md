@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nodejs,react,nextjs,postgres" />
 </a>
 
-### 👩‍💻 Desenvolvedora Full Stack apaixonada por criar soluções eficientes e elegantes. Sempre em busca de novos desafios.  
+
 
 
 ### Contacts:
