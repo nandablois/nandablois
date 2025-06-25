@@ -12,7 +12,7 @@
 
 ### Contacts:
 
-<a href="https://www.instagram.com/nandavdev/" target="_blank">
+<a href="https://www.instagram.com/nandabdev/" target="_blank">
   <img src="https://img.shields.io/badge/nandabdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
 </a>
 <a href="https://www.linkedin.com/in/mariafernandablois/" target="_blank">
