@@ -1,6 +1,6 @@
 ## 
 ## Welcome to my profiler ✨
-<img align="right" alt="nandabdev.png" width="300" height="300" style="border-radius:10px;" src="nandabdev.png">
+<img align="right" alt="nandabdev.png" width="200" height="300" style="border-radius:10px;" src="nandabdev.png">
 
 ### Tools ⚙️
 <a href="https://skillicons.dev">
