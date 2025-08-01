@@ -1,39 +1,40 @@
-## 
-## Welcome to my profiler ✨
-<img align="right" alt="nandabdev.png" width="200" height="300" style="border-radius:10px;" src="nandabdev.png">
-
-### Tools ⚙️
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,python,django,docker,javascript,typescript,nodejs,react,nextjs,postgres" />
-</a>
 
 
+<h1 align="center">Olá! Eu sou a Nanda 👩‍💻</h1>
 
+<img src="nandabdev.png" width="250" height="250" alt="nandabdev" align="right" style="border-radius: 50px; " />
+<p >
+Desenvolvedora apaixonada por transformar ideias em soluções digitais criativas e eficientes. <br />
+Foco em desenvolvimento web moderno com <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>React</strong>.
+</p>
 
-### Contacts:
+### 🛠️ Tecnologias & Ferramentas
 
-<a href="https://www.instagram.com/nandabdev/" target="_blank">
-  <img src="https://img.shields.io/badge/nandabdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-</a>
-<a href="https://www.linkedin.com/in/mariafernandablois/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nandablois1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,postgres" width="250" alt="Tech Stack" />
+  </a>
+</p>
+
+### Sobre mim:
+
+- 🚀 Buscando colaborar com projetos inovadores e inclusivos
+- 🎯 Interesse em acessibilidade, boas práticas e experiências do usuário
+- 💬 Curiosa, comunicativa e sempre em busca de aprender algo novo
+
+### Contatos:
+
+| [<img src="https://skillicons.dev/icons?i=instagram" width="30"/>](https://www.instagram.com/nandabdev/) | [<img src="https://skillicons.dev/icons?i=linkedin" width="30"/>](https://www.linkedin.com/in/mariafernandablois/) | [<img src="https://skillicons.dev/icons?i=gmail" width="30"/>](mailto:nandablois1@gmail.com) |
+|---|---|---|
+
+---
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nandablois&show_icons=true&theme=radical" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandablois&layout=donut&theme=radical" />
+</p>
 
 
 <!--
 **nandablois/nandablois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
