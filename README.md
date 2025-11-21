@@ -11,7 +11,7 @@ Atuo com desenvolvimento web moderno utilizando <strong>JavaScript</strong>, <st
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,nodejs,postgres" width="300" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,vite,nextjs,nodejs,postgres" width="300" alt="Tech Stack" />
   </a>
 </p>
 
