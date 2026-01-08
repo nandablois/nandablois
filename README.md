@@ -19,7 +19,8 @@ Atuo com desenvolvimento web moderno utilizando <strong>JavaScript</strong>, <st
 
 - 🚀 Buscando colaborar com projetos inovadores e inclusivos  
 - 🎯 Interesse em acessibilidade, boas práticas e experiência do usuário  
-- 💬 Curiosa, comunicativa e sempre aprendendo algo novo  
+- 💬 Curiosa, comunicativa e sempre aprendendo algo novo
+
 
 ### Contatos:
 
@@ -28,8 +29,5 @@ Atuo com desenvolvimento web moderno utilizando <strong>JavaScript</strong>, <st
 
 ---
 
-<p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=nandablois&show_icons=true&theme=radical" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandablois&layout=donut&theme=radical" />
-</p>
+
 
