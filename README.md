@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Nanda 👩‍💻</h1>
+<h1 align="center">Olá! Eu sou a Nanda Blois👩‍💻</h1>
 
 <p align="center">
   <strong>Desenvolvedora Full Stack</strong> apaixonada por tecnologia, experiência do usuário e criação de soluções digitais.
